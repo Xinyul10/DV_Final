@@ -1,0 +1,12 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - wordcloud
+  - plotly
+  - datetime
+  - seaborn
