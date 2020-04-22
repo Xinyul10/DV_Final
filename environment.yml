@@ -8,5 +8,4 @@ dependencies:
   - pandas
   - wordcloud
   - plotly
-  - datetime
   - seaborn
